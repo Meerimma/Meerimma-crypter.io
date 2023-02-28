@@ -1,0 +1,35 @@
+
+.header{
+    padding: 45px 0;
+    background: #4A2B33;
+}
+
+.header__nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header__list{
+    display: flex;
+    column-gap: 20px;
+}
+
+.header__title{
+    font-size: 30px;
+    color: #D27487;
+}
+
+.header__item{
+    font-family: 'Inter',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    color: #D27487;
+}
+
+.header__item-icon{
+    font-size: 25px;
+}
+
